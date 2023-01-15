@@ -64,7 +64,7 @@
  &trans  &trans  &trans  &trans  &trans             &trans                   &none   &none          &trans      &trans    &trans          &trans      &trans   &trans
  &trans  &trans  &trans  &trans  &trans             &trans                   &none  &trans  &kp C_PREVIOUS                        &kt C_PREVIOUS  &kp C_NEXT    &none  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans             &trans                   &none   &none    &kp C_VOL_UP       &none     &none    &kp C_VOL_UP       &none    &none  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_DOWN            &kp C_VOL_UP  &trans    &kp C_VOL_DN  &kp K_NEXT  &kp C_PP          &trans      &trans   &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_DOWN            &kp C_VOL_UP  &trans    &kp C_VOL_DN  &kp C_NEXT  &kp C_PP          &trans      &trans   &trans  &trans  &trans
             >;
         };
 
